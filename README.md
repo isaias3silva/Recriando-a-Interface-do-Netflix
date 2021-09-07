@@ -8,4 +8,4 @@ Recriar a interface principal site de streaming mundial utilizando tecnologias s
 
 ### Links Úteis
 Repositório no GitHub (implementação de referência)
-<a href="https://hermes.digitalinnovation.one/lab_projects/files/b30832b8-e9dc-42da-98a5-24d908dc3011.zip" />
+<a href="https://hermes.digitalinnovation.one/lab_projects/files/b30832b8-e9dc-42da-98a5-24d908dc3011.zip">Repositório no GitHub (implementação de referência)<a/>
